@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning 3D modeling and even more code
 - 👯 I’m looking to collaborate on Ruby Gems 💎
 - 📫 How to reach me: 🕊
-- ⚡ Fun fact: I don't like coffee ☕️
+- ⚡ Random fact: I don't like coffee ☕️
